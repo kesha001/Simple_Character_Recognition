@@ -1,4 +1,4 @@
-# Characters classification for VIN Codes
+# Simple Characters classification
 
 This project demonstrates simple solution to digits and characters classification. More about training process in files train.py or train.ipynb
 
